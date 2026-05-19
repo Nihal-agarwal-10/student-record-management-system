@@ -137,6 +137,26 @@ Through this project, the following concepts were practically implemented and un
 
 ---
 
+# Application Preview
+
+## Main Menu & Development Environment
+
+![Menu](screenshots/Menu.png)
+
+---
+
+## Adding Student Record
+
+![Add Student](screenshots/Add_student.png)
+
+---
+
+## Displaying Student Records
+
+![Display Records](screenshots/Display_record.png)
+
+--- 
+
 # Author
 
 Nihal Agarwal
