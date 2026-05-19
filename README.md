@@ -147,7 +147,7 @@ Through this project, the following concepts were practically implemented and un
 
 ## Adding Student Record
 
-![Add Student](screenshots/Add_student.png)
+![Add Student](screenshots/Add_Student.png)
 
 ---
 
